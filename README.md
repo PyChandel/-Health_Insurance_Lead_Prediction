@@ -1,8 +1,13 @@
 # Health_Insurance_Lead_Prediction Job-A-Thon Project -Analytics Vidhya
 Project Methodology
+
 FinMan is a financial services company that provides various financial services like loan, investment funds, insurance etc. to its customers. FinMan wishes to cross-sell health insurance to the existing customers who may or may not hold insurance policies with the company. The company recommends health insurance to its customers based on their profile once these customers land on the website. Customers might browse the recommended health insurance policy and consequently fill up a form to apply. When these customers fill-up the form, their Response towards the policy is considered positive and they are classified as a lead.
 
+
+
 Objective Of The Project
+
+
 Now the company needs your help in building a model to predict whether the person will be interested in their proposed Health plan/policy given the information about:
 
 1 Demographics (city, age, region etc.)
@@ -12,6 +17,8 @@ Now the company needs your help in building a model to predict whether the perso
 3 Recommended Policy Information
 
 Related Variable
+
+
 ID - Unique id.
 City_Code - Code for the city of users.
 Region_Code - Code for the region of the users.
